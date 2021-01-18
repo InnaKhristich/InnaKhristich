@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 - 🔭 I’m currently working on my projects
 - 🌱 I’m currently learning JavaScript
