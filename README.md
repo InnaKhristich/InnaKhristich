@@ -1,5 +1,6 @@
 ### Hello World, I'm Inna 👋
-
+ 
+ <img align="right" alt="GIF" src="https:https://github.com/InnaKhristich/InnaKhristich/blob/main/Coder.gif?raw=true" width="456" height="412" />
 
 - 🔭 I’m currently working on my projects
 - 🌱 I’m currently learning JavaScript
