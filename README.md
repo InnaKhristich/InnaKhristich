@@ -30,4 +30,3 @@
 * Project Management
 * Critical Thinking
 * Minimizing Distractions
-* Patience
