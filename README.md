@@ -1,4 +1,5 @@
-### Hello world 👋
+### Hello World, I'm Inna 👋
+
 
 - 🔭 I’m currently working on my projects
 - 🌱 I’m currently learning JavaScript
